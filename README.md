@@ -39,7 +39,7 @@ Dataset used: **Sample Superstore (sales data)**
 ## 🗂 Deliverables
 - Tableau Workbook: `Task2.twbx`  
 - Dataset: `sample_superstore.xls`  
-- [📄 PDF Report – Superstore Sales](Super%20store%20sales.pdf)  
+- [📄 Superstore Sales Report (PDF)](Super%20store%20sales.pdf)
 - README.md  
 
 ---
