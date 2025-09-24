@@ -49,7 +49,3 @@ Dataset used: **Sample Superstore (sales data)**
 - Dataset: Sample Superstore (Excel)  
 
 ---
-
-
-
-✅ This repository is part of the **Data Analyst Internship – Task 2**.
